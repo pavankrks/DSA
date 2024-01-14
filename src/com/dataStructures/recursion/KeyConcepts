@@ -1,0 +1,13 @@
+Recursion:
+
+	>> Recursion is something where function calls itself in order to
+	complete the given task.
+	>> It divides the complex problem into simpler steps like stack of steps.
+	
+	example programs:
+	
+		>> printing numbers from 1 to n
+		>> printing numbers from n to 1
+		>> finding the factorial to n
+		>> printing the fibonacci series
+		>> use recursion of for loop for simple tasks
